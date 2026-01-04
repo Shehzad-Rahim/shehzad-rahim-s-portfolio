@@ -1,0 +1,9 @@
+
+{
+  "name": "Shehzad Rahim's Portfolio",
+  "description": "A high-end, interactive portfolio featuring mouse-following animations, professional project showcases, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
