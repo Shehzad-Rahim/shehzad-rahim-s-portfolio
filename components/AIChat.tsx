@@ -119,4 +119,4 @@ const AIChat: React.FC = () => {
   );
 };
 
-export default AIChat;
+export default AIChat; 
