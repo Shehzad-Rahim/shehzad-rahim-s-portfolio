@@ -101,7 +101,7 @@ const Footer: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs text-slate-500 font-bold uppercase tracking-wider">Email Me</p>
-                  <p className="font-semibold">hello@shehzad.dev</p>
+                  <p className="font-semibold">shehzadrahim33@gmail.com</p>
                 </div>
               </a>
               <div className="flex items-center gap-4">
@@ -110,7 +110,7 @@ const Footer: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-xs text-slate-500 font-bold uppercase tracking-wider">Location</p>
-                  <p className="font-semibold">Dubai, United Arab Emirates</p>
+                  <p className="font-semibold">Karachi, Pakistan</p>
                 </div>
               </div>
             </div>
@@ -207,7 +207,7 @@ const Footer: React.FC = () => {
 
         <div className="pt-12 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-6">
           <p className="text-slate-500 text-sm">
-            © 2024 Shehzad Rahim. Built with React, Tailwind & Gemini AI.
+            © 2026 Shehzad Rahim. Built with React, Tailwind.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-slate-500 hover:text-white transition-colors"><i className="fa-brands fa-github text-xl"></i></a>
