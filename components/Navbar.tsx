@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
           ))}
         </div>
 
-        <button onClick={() => window.open('/Resume.pdf', '_self')} className="px-5 py-2 rounded-full bg-blue-600 hover:bg-blue-500 text-sm font-semibold transition-all shadow-lg shadow-blue-900/20 active:scale-95">
+        <button onClick={() => window.location.href = '/Resume.pdf'} className="px-5 py-2 rounded-full bg-blue-600 hover:bg-blue-500 text-sm font-semibold transition-all shadow-lg shadow-blue-900/20 active:scale-95">
           Resume
         </button>
       </div>
