@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
           ))}
         </div>
 
-        <a href="/Shehzad-Resume" target="_blank" rel="noopener noreferrer" className="inline-block px-5 py-2 rounded-full bg-blue-600 hover:bg-blue-500 text-sm font-semibold transition-all shadow-lg shadow-blue-900/20 active:scale-95">
+        <a href="/Shehzad-Resume.pdf" target="_blank" rel="noopener noreferrer" className="inline-block px-5 py-2 rounded-full bg-blue-600 hover:bg-blue-500 text-sm font-semibold transition-all shadow-lg shadow-blue-900/20 active:scale-95">
           Resume
         </a>
       </div>
